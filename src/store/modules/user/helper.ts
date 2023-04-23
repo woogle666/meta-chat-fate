@@ -18,7 +18,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
       nickname: '三生宇宙',
-      description: '欢迎来到AI的世界',
+      description: '欢迎来到AI的世界,合理使用我，提高生产效率，创造更多价值！',
       mobile: '176****5959',
     },
   }
